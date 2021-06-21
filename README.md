@@ -1,16 +1,7 @@
-# 👋hi
-I'm just a trash coder (:
+![](https://komarev.com/ghpvc/?username=icantcodelolz&color=blueviolet)
+# hello👋.
+just a random kid that's trash at coding lol.
 
-## 🧚🏽‍♂️skids
-Layceez
-
-Kaih
-
-Kermit
-
-Iheb
-
-Pix
-
-### 🧚🏽‍♂️server 
- https://discord.gg/coding
+## Reach me @
+<img
+src=https://discord.c99.nl/widget/theme-1/780850713206194226.png>
