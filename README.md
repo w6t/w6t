@@ -10,3 +10,4 @@ src=https://discord.c99.nl/widget/theme-3/780850713206194226.png>
 
 ### Statistics (:
 ![stats](https://github-readme-stats.vercel.app/api?username=icantcodelolz&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icantcodelolz&layout=compact&theme=graywhite)
