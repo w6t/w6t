@@ -9,5 +9,7 @@ join my server [click here](https://discord.gg/rtm) :D
 src=https://discord.c99.nl/widget/theme-3/780850713206194226.png>
 
 ### Statistics (:
-![stats](https://github-readme-stats.vercel.app/api?username=icantcodelolz&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icantcodelolz&layout=compact&theme=graywhite)
+![stats](https://github-readme-stats.vercel.app/api?username=icantcodelolz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icantcodelolz&layout=compact&theme=dark)<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=icantcodelolz&theme=discord&margin-w=15&margin-h=15&column=7" />
+</p>
