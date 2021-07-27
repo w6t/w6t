@@ -6,7 +6,7 @@ join my server [click here](https://discord.gg/skid) 31k+ :D
 
 ## Reach me @
 <img
-src=https://discord.c99.nl/widget/theme-3/780850713206194226.png>
+src=https://discord.c99.nl/widget/theme-4/780850713206194226.png>
 
 ### Statistics (:
 ![stats](https://github-readme-stats.vercel.app/api?username=w6t&show_icons=true&theme=dark)
