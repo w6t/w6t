@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=w6t&color=blueviolet)           
 [![GitHub followers](https://img.shields.io/github/followers/w6t.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/w6t?tab=followers)
 # Hi👋.
-just a random lazy kid that's trash at coding lol or anything on general lol.
-join my server [click here](https://discord.gg/skid) :D
+im trash at coding lol.
+join my server [click here](https://discord.gg/skid) 31k+ :D
 
 ## Reach me @
 <img
