@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/w6t.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/w6t?tab=followers)
 # Hi👋.
 im trash at coding lol.
-join my server [click here](https://discord.gg/skid) 31k+ :D
+join my server [click here](https://discord.gg/skid) 50k+ :D
 
 ## Reach me @
 ### DISABLED ACC
