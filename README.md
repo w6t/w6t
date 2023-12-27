@@ -3,8 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Kriis</a></b>.
-    <br>python dev<br>
+    <br>python/javascript dev<br>
 
 </samp>
 
@@ -14,7 +13,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/949692867083903046.png">
+  <img src="https://discord.c99.nl/widget/theme-4/1158593181902970891.png">
   <br><br>
   <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
   <br>
